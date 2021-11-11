@@ -1,3 +1,8 @@
+# Goals
+The goal is to create a calculator that will
+calculate how much ohm you will have on any given day based off of Dune's spreadsheet. \
+After implementing the spreadsheet there will be implementation to figure out exactly how much you can take out 
+at Rari.Capital without risk.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
